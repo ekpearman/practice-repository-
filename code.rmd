@@ -6,3 +6,5 @@ line 4 of code
 Here I am writing a bunch of code that I will want to undo later with a mixed reset little mistake
 
 time to test a soft reset changing more
+
+I am also making changes to line 10
