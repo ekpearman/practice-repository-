@@ -18,3 +18,4 @@ now i am editing code.rmd in github
 
 
 noq I am editing code in gitgun again 
+I am updateing again the code here wil lconflict iwth git hun
