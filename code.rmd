@@ -12,3 +12,6 @@ I am making changes to line 10 hehe
 
 
 now line 14 in dev
+
+
+now i am editing code.rmd in github
