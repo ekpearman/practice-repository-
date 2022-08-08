@@ -15,3 +15,6 @@ now line 14 in dev
 
 
 now i am editing code.rmd in github
+
+
+noq I am editing code in gitgun again 
